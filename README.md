@@ -69,14 +69,3 @@ bitcoin-historical-dashboard/
 Este projeto foi desenvolvido como atividade prática do curso técnico e serviu para exercitar a transformação de uma base histórica em informações visuais, a escolha de métricas, a construção de indicadores e a organização de um dashboard no Power BI.
 
 Também permitiu aplicar conceitos de estatística descritiva em um conjunto de dados real, relacionando medidas como média, mediana e desvio padrão à interpretação da série histórica.
-
-## Próximas melhorias
-
-- Criar filtros por período
-- Revisar a apresentação e nomenclatura de alguns indicadores
-- Adicionar análises de volatilidade por período
-- Comparar retornos em diferentes janelas de tempo
-- Documentar de forma mais detalhada as transformações realizadas no Power Query
-- Documentar a fonte original do conjunto de dados
-
-> Projeto desenvolvido para fins educacionais e de análise de dados. Não representa recomendação de investimento.
